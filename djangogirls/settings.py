@@ -25,7 +25,7 @@ SECRET_KEY = 'jtu4(s0m_p@=w^sccaapm8w3lcct@0$-!250ky29-he#2v+0vm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['zdavidlnx.pythonanywhere.com',]
+ALLOWED_HOSTS = ['zdavidlnx.pythonanywhere.com', '127.0.0.1',]
 
 
 # Application definition
